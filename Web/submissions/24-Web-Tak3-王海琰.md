@@ -100,6 +100,7 @@ if ($moe == "flag") {
 ![](https://cdn.nlark.com/yuque/0/2026/png/65087184/1776080897349-55bfa896-9b69-49d1-b7e8-7065b30a495b.png)
 
 选择安装地址，`Next`：
+
 ![](https://cdn.nlark.com/yuque/0/2026/png/65087184/1776080956691-91a1cb90-3584-4c0b-927c-3fc18626ac90.png)
 
 `Next`后等待安装，`Finish`以完成安装。双击启动程序：
